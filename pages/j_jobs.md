@@ -13,7 +13,32 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Data:** 09/06/2016  
+**Company:** 21Style  
+**Location:** Torino  
+**Title:** Java Developer  
+**Contact:** gianluca.farinaperseu@21-style.com
 
+Ricerco urgentemente sviluppatore Java con 3-4 anni di esperienza con partita iva, per sviluppo interfacce in Java su applicativi SAP.
+L'attività inizierà a giorni.
+
+**Job Description**
+
+- Tipo di contratto: partita iva
+
+- Salario offerto: 200€/day
+
+- Conoscenze richieste: sviluppo interfacce applicative, sia in tecnologia RIA che Web/HTML5.
+
+- Ruolo da coprire e responsabilità: Sviluppatore
+
+- Sede di lavoro: Torino centro
+
+- Modalità di selezione: 
+Colloquio informale via telefono, successivo colloquio con cliente
+
+
+---
 **Data:** 03/06/2016  
 **Company:** [EqualExperts](https://www.equalexperts.com)  
 **Location:** Londra  
